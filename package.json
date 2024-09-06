@@ -3,7 +3,7 @@
     "private": true,
     "version": "1.0.0",
     "homepage": "https://arturlaski.github.io/final_project-_2_project_html-css",
-    "type": "module",
+    "type": "module", 
     "scripts": {
       "dev": "vite",
       "build": "vite build --base=/final_project-_1_project_html-css/",
