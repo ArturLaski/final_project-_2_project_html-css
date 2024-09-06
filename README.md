@@ -1,8 +1,11 @@
-
 ## Project of HTML & CSS 
 
  - [WWW link:](https://arturlaski.github.io/final_project-_2_project_html-css/) [https://arturlaski.github.io/final_project-_2_project_html-css/]
 
+
+# [gh-pages branch] last Commit
+
+![Commit](https://img.shields.io/github/last-commit/ArturLaski/final_project-_2_project_html-css/gh-pages)
 
 
 ## Collaborators in project
@@ -31,6 +34,3 @@
 | reviews.html | `Krzysztof` | `08.09.2024 ` | 
 | teachers.html | `Marcin` | `08.09.2024 ` | 
 
-# [gh-pages branch] last Commit
-
-![Commit](https://img.shields.io/github/last-commit/ArturLaski/final_project-_2_project_html-css/gh-pages)
