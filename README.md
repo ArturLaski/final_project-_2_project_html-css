@@ -30,3 +30,7 @@
 | prop-leave-app.html | `Artur Łaski` | `done` | 
 | reviews.html | `Krzysztof` | `08.09.2024 ` | 
 | teachers.html | `Marcin` | `08.09.2024 ` | 
+
+# [gh-pages branch] last Commit
+
+![Commit](https://img.shields.io/github/last-commit/ArturLaski/final_project-_2_project_html-css/gh-pages)
