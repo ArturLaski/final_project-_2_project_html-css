@@ -1,13 +1,10 @@
 {
   "name": "vanilla-app-template",
-  "private": true,
   "version": "1.0.0",
   "homepage": "https://arturlaski.github.io/final_project-_2_project_html-css",
-  "type": "module",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build --base=/final_project-_2_project_html-css/",
-    "preview": "vite preview"
+   "scripts": {
+    "dev": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /final_project-_2_project_html-css/",
   },
   "devDependencies": {
     "glob": "^11.0.0",
