@@ -17,6 +17,7 @@
 | `Marthen100` | Marcin | `v-c Leader` | 
 | `michalpokracki` | Michał Pokracki | ` ` | 
 | `slavicBoy` | Krzysztof | ` ` | 
+| `sebawi2` | Sebastian Wiśniewski | ` ` | 
 
 ## Seperate projects features
 
@@ -25,12 +26,12 @@
 | Configure Deployments | `Artur Łaski` | ![Done](https://img.shields.io/badge/done-green) | 
 | BASE HTML & CSS | `Artur Łaski` | ![Done](https://img.shields.io/badge/done-green) | 
 | about.html | `Michał Pokracki` | `07.09.2024 ` | 
-| footer.html | `Artur Łaski` | `08.09.2024 ` | 
+| footer.html | `Sebastian Wiśniewski` | `08.09.2024 ` | 
 | header.html | `Marcin` | `07.09.2024 ` | 
 | hero.html | `Marcin` | `06.09.2024 ` | 
 | leave-app.html | `Krzysztof` | `07.09.2024 ` | 
 | lesson.html | `Michał Pokracki` | `08.09.2024 ` | 
 | prop-leave-app.html | `Artur Łaski` | ![Done](https://img.shields.io/badge/done-green) | 
 | reviews.html | `Krzysztof` | `08.09.2024 ` | 
-| teachers.html | `Marcin` | `08.09.2024 ` | 
+| teachers.html | `Sebastian Wiśniewski` | `08.09.2024 ` | 
 
