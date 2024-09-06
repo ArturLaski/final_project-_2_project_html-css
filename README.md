@@ -26,8 +26,8 @@
 | Configure Deployments | `Artur Łaski` | ![Done](https://img.shields.io/badge/done-green) | 
 | BASE HTML & CSS | `Artur Łaski` | ![Done](https://img.shields.io/badge/done-green) | 
 | about.html | `Michał Pokracki` | `07.09.2024 ` | 
-| footer.html | `Sebastian Wiśniewski` | `08.09.2024 ` | 
-| header.html | `Marcin` | `07.09.2024 ` | 
+| footer.html | `Marcin` | `08.09.2024 ` | 
+| header.html | `Sebastian Wiśniewski` | `07.09.2024 ` | 
 | hero.html | `Marcin` | `06.09.2024 ` | 
 | leave-app.html | `Krzysztof` | `07.09.2024 ` | 
 | lesson.html | `Michał Pokracki` | `08.09.2024 ` | 
