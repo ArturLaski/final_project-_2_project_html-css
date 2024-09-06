@@ -1,7 +1,7 @@
 
 ## Project of HTML & CSS 
 
- - [WWW link:](https://arturlaski.github.io/final_project-_2GROUP_project_html-css/src/) [https://arturlaski.github.io/final_project-_2GROUP_project_html-css/src/]
+ - [WWW link:](https://arturlaski.github.io/final_project-_2_project_html-css/) [https://arturlaski.github.io/final_project-_2_project_html-css/]
 
 
 
