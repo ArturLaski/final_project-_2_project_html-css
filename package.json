@@ -2,10 +2,11 @@
   "name": "vanilla-app-template",
   "private": true,
   "version": "1.0.0",
+  "homepage": "https://arturlaski.github.io/final_project-_2_project_html-css",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/vanilla-app-template/",
+    "build": "vite build --base=/final_project-_2_project_html-css/",
     "preview": "vite preview"
   },
   "devDependencies": {
@@ -17,6 +18,7 @@
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "modern-normalize": "^3.0.0",
     "vite-plugin-full-reload": "^1.2.0",
     "vite-plugin-html-inject": "^1.1.2"
   }
