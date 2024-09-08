@@ -16,7 +16,7 @@
 | `ArturLaski` | Artur Łaski | `Leader` | 
 | `Marthen100` | Marcin | `v-c Leader` | 
 | `michalpokracki` | Michał Pokracki | ` ` | 
-| `slavicBoy` | Krzysztof | ` ` | 
+| `slavicBoy` | Krzysztof | ![Deleted](https://img.shields.io/badge/Krzysztof-is%20deleted%20from%20project%20due%20to%20not%20responding%20and%20failure%20to%20meet%20deadlines-red) | 
 
 ## Seperate projects features
 
