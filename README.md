@@ -30,6 +30,6 @@
 | leave-app.html | ![Deleted](https://img.shields.io/badge/Krzysztof-is%20delete%20from%20project-red) `Artur Łaski` | `07.09.2024 ` | 
 | lesson.html | `Michał Pokracki` | `08.09.2024 ` | 
 | prop-leave-app.html | `Artur Łaski` | ![Done](https://img.shields.io/badge/done-green) | 
-| reviews.html | ![Deleted](https://img.shields.io/badge/Krzysztof-is%20delete%20from%20project-red) `Artur Łaski` | `08.09.2024 ` | 
+| reviews.html | ![Deleted](https://img.shields.io/badge/Krzysztof-is%20delete%20from%20project-red) `Artur Łaski` | ![Done](https://img.shields.io/badge/done-green) | 
 | teachers.html | `Marcin` | `08.09.2024 ` | 
 
