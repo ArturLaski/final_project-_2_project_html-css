@@ -1,7 +1,7 @@
 .teachers-card-container {
     display: flex;
     flex-direction: column;
-    aligns: center;
+    align-items: center;
     justify-content: center;
     gap: 16px;
 }
@@ -66,7 +66,7 @@
     flex-direction: column;
     padding: 32px;
     border-radius: 16px;
-    aligns: center;
+    align-items: center;
     justify-content: center;
     text-align: center;
 }
@@ -79,7 +79,7 @@
 .teachers-list-container {
     display: flex;
     flex-direction: column;
-    aligns: center;
+    align-items: center;
     justify-content: center;
     gap: 32px;
 }
@@ -182,7 +182,7 @@
     }
 
     .teachers-list {
-        aligns: flex-start;
+        align-items: flex-start;
         justify-content: flex-start;
     }
 
