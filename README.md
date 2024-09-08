@@ -27,9 +27,9 @@
 | about.html | `Michał Pokracki` | `07.09.2024 ` | 
 | footer.html | `Marcin` | ![ToImprove](https://img.shields.io/badge/to-improve-orange) | 
 | hero.html | `Marcin` | `06.09.2024 ` | 
-| leave-app.html | `Krzysztof` | `07.09.2024 ` | 
+| leave-app.html | ![Deleted](https://img.shields.io/badge/Krzysztof-is%20delete%20from%20project-red) `Artur Łaski` | `07.09.2024 ` | 
 | lesson.html | `Michał Pokracki` | `08.09.2024 ` | 
 | prop-leave-app.html | `Artur Łaski` | ![Done](https://img.shields.io/badge/done-green) | 
-| reviews.html | `Krzysztof` | `08.09.2024 ` | 
+| reviews.html | ![Deleted](https://img.shields.io/badge/Krzysztof-is%20delete%20from%20project-red) `Artur Łaski` | `08.09.2024 ` | 
 | teachers.html | `Marcin` | `08.09.2024 ` | 
 
