@@ -60,7 +60,7 @@
     padding: 0;
 }
 
-.teachers-list {
+.teachers-list-item {
     width: 250px;
     display: flex;
     flex-direction: column;
@@ -71,12 +71,12 @@
     text-align: center;
 }
 
-.teachers-list img {
+.teachers-list-item img {
     max-width: 100%;
     border-radius: 50%;
 }
 
-.teachers-list-container {
+.teachers-list-item-container {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -124,7 +124,7 @@
         height: 16px;
     }
 
-    .teachers-list img {
+    .teachers-list-item img {
         max-width: 100%;
         max-height: 100%;
         border-radius: 50%;
@@ -148,7 +148,7 @@
         gap: 32px;
     }
 
-    .teachers-list {
+    .teachers-list-item {
         width: 336px;
         border-radius: 30px;
     }
@@ -186,12 +186,12 @@
         justify-content: flex-start;
     }
 
-    .teachers-list {
+    .teachers-list-item {
         width: 232px;
         border-radius: 10px;
     }
 
-    .teachers-list img {
+    .teachers-list-item img {
         max-width: 100%;
         max-height: 100%;
         border-radius: 50%;
