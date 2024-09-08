@@ -25,8 +25,8 @@
 | Configure Deployments | `Artur Łaski` | ![Done](https://img.shields.io/badge/done-green) | 
 | BASE HTML & CSS | `Artur Łaski` | ![Done](https://img.shields.io/badge/done-green) | 
 | about.html | `Michał Pokracki` | ![Done](https://img.shields.io/badge/done-green) | 
-| footer.html | `Marcin` | ![ToImprove](https://img.shields.io/badge/to-improve-orange) | 
-| header.html | `Artur Łaski` | `07.09.2024 ` | 
+| footer.html | `Marcin` | ![Done](https://img.shields.io/badge/to-improve-range)  | 
+| header.html | `Artur Łaski` | ![Done](https://img.shields.io/badge/done-green)  | 
 | hero.html | `Marcin` | `06.09.2024 ` | 
 | leave-app.html | ![Deleted](https://img.shields.io/badge/Krzysztof-is%20delete%20from%20project-red) `Artur Łaski` | `07.09.2024 ` | 
 | lesson.html | `Michał Pokracki` | ![Done](https://img.shields.io/badge/done-green) | 
