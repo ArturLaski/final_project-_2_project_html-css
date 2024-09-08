@@ -139,6 +139,7 @@
   gap: 28px;
 }
 
+/* Socials icon*/
 .socialss {
   position: absolute;
   bottom: 20px;
@@ -169,6 +170,8 @@
   transition: fill var(--transition-general),
     outline-color var(--transition-general);
 }
+
+/* END Socials icon*/
 
 .menu-icon {
   width: 26px;
