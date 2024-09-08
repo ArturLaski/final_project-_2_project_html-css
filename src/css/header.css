@@ -149,13 +149,14 @@
 }
 
 .social-links {
-    border-radius: var(--mobile-card-border-radius);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 44px;
-    height: 44px;
-    padding: 8px;
+  width: 26px;
+  height: 26px;
+  fill: var(--white-color);
+  outline: 1px solid #fff;
+  outline-offset: 8px;
+  border-radius: 1px;
+  transition: fill var(--transition-general),
+    outline-color var(--transition-general);
 }
 
 .social-icons {
