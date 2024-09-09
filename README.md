@@ -28,7 +28,7 @@
 | footer.html | `Marcin` | ![Done](https://img.shields.io/badge/to-improve-orange)  | 
 | header.html | `Artur Łaski` | ![Done](https://img.shields.io/badge/done-green)  | 
 | hero.html | `Marcin` | ![Done](https://img.shields.io/badge/done-green) | 
-| leave-app.html | ![Deleted](https://img.shields.io/badge/Krzysztof-is%20delete%20from%20project-red) `Artur Łaski` | `09.09.2024 ` | 
+| leave-app.html | ![Deleted](https://img.shields.io/badge/Krzysztof-is%20delete%20from%20project-red) `Artur Łaski` | ![Done](https://img.shields.io/badge/done-green) | 
 | lesson.html | `Michał Pokracki` | ![Done](https://img.shields.io/badge/done-green) | 
 | prop-leave-app.html | `Artur Łaski` | ![Done](https://img.shields.io/badge/done-green) | 
 | reviews.html | ![Deleted](https://img.shields.io/badge/Krzysztof-is%20delete%20from%20project-red) `Artur Łaski` | ![Done](https://img.shields.io/badge/done-green) | 
