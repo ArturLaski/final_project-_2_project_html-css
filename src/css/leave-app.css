@@ -1,4 +1,4 @@
-.form-section {
+.form-section-mod {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -7,14 +7,14 @@
   margin-bottom: 80px;
 }
 
-.form-header-container {
+.form-header-container-mod {
   text-align: center;
   margin-bottom: 64px;
   display: flex;
   flex-direction: column;
 }
 
-.form-header {
+.form-header-mod {
   font-family: var(--primary-font);
   font-weight: var(--bold-weight);
   font-size: var(--mobile-header-font-size);
@@ -23,13 +23,13 @@
   margin-bottom: 16px;
 }
 
-.form-marker {
+.form-marker-mod {
   position: relative;
   display: inline-block;
   z-index: 1;
 }
 
-.form-marker::after {
+.form-marker-mod::after {
   content: '';
   position: absolute;
   left: 0;
@@ -41,21 +41,21 @@
   border-radius: 8px;
 }
 
-.form-header-description {
+.form-header-description-mod {
   font-size: var(--desktop-button-font-size);
   color: #12141780;
   line-height: 1.667;
   margin: 0 auto;
 }
 
-.form-body-container {
+.form-body-container-mod {
   display: flex;
   background-color: var(--primary-background-color);
   overflow: hidden;
   flex-direction: row;
 }
 
-.form-image-wrapper {
+.form-image-wrapper-mod {
   color: var(--primary-background-color);
   background-color: var(--secondary-color);
   border-radius: var(--card-border-radius);
@@ -64,12 +64,12 @@
   display: none;
 }
 
-.form-image-wrapper .form-image {
+.form-image-wrapper-mod .form-image-mod {
   border-bottom-left-radius: 50%;
   border-bottom-right-radius: 50%;
 }
 
-.form-image-wrapper .image-text {
+.form-image-wrapper-mod .image-text-mod {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -77,26 +77,26 @@
   padding: 0 20px 40px;
 }
 
-.input-form {
+.input-form-mod {
   display: flex;
   flex-direction: column;
   gap: 18px;
 }
 
-.input-form input,
-.input-form textarea {
+.input-form-mod input,
+.input-form-mod textarea {
   padding: 10px;
   border: 1px solid var(--border-color);
   border-radius: var(--input-border-radius);
   font-size: var(--mobile-font);
 }
 
-.input-form textarea {
+.input-form-mod textarea {
   height: 100px;
   resize: none;
 }
 
-.form-border {
+.form-border-mod {
   width: 100%;
   height: 56px;
   border: 1px solid var(--border-color);
@@ -104,12 +104,12 @@
   outline: none;
 }
 
-.form-border:focus {
+.form-border-mod:focus {
   border-color: var(--focus-color);
   outline: none;
 }
 
-.instructor-options {
+.instructor-options-mod {
   margin-bottom: 32px;
   font-size: var(--paragraph-title-size);
   font-weight: var(--semi-bold-weight);
@@ -118,13 +118,13 @@
   gap: 8px;
 }
 
-.instructor-options input[type='radio'] {
+.instructor-options-mod input[type='radio'] {
   accent-color: green;
   width: 20px;
   height: 20px;
 }
 
-.choose-instructor {
+.choose-instructor-mod {
   font-size: var(--paragraph-title-size);
   font-weight: var(--semi-bold-weight);
   line-height: 1.5;
@@ -132,7 +132,7 @@
   margin-bottom: 16px;
 }
 
-.submit-info {
+.submit-info-mod {
   font-size: var(--small-font-size);
   font-weight: var(--regular-weight);
   line-height: 1.333;
@@ -140,19 +140,19 @@
 }
 
 @media only screen and (min-width: 768px) {
-  .form-header-container {
+  .form-header-container-mod {
     margin-bottom: 64px;
   }
 
-  .form-header {
+  .form-header-mod {
     margin-bottom: 16px;
   }
 
-  .form-header-description {
+  .form-header-description-mod {
     width: 586px;
   }
 
-  .input-form {
+  .input-form-mod {
     display: flex;
     flex-direction: column;
     gap: 18px;
@@ -160,24 +160,24 @@
     margin-top: 64px;
   }
 
-  .instructor-options {
+  .instructor-options-mod {
     flex-direction: row;
     gap: 30px;
     margin-bottom: 32px;
   }
 
-  .instructor-options input[type='radio'] {
+  .instructor-options-mod input[type='radio'] {
     width: 24px;
     height: 24px;
   }
 }
 
 @media only screen and (min-width: 1280px) {
-  .input-form {
+  .input-form-mod {
     margin-top: 0px;
   }
 
-  .image-description {
+  .image-description-mod {
     font-size: var(--desktop-paragraph-font-size);
     font-weight: var(--regular-weight);
     line-height: 1.5;
@@ -185,14 +185,14 @@
     text-align: center;
   }
 
-  .form-image-wrapper {
+  .form-image-wrapper-mod {
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: 20px;
   }
 
-  .main-image-text {
+  .main-image-text-mod {
     margin-bottom: 8px;
     font-size: var(--main-heading-size);
     font-weight: var(--bold-weight);
@@ -201,11 +201,11 @@
     text-align: center;
   }
 
-  .form-header-description {
+  .form-header-description-mod {
     width: 709px;
   }
 
-  .instructor-options {
+  .instructor-options-mod {
     flex-direction: row;
     gap: 20px;
     margin-bottom: 32px;
