@@ -41,7 +41,7 @@
     border-radius: 8px;
   }
   
-  .application-heading-description {
+  .header-app-desc {
     font-size: var(--desktop-tablet-button-font-size);
     color: #12141780;
     line-height: 1.667;
@@ -226,7 +226,7 @@
       text-align: center;
     }
   
-    .application-heading-description {
+    .header-app-desc {
       width: 709px;
     }
   
