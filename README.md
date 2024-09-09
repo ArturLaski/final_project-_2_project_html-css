@@ -34,3 +34,6 @@
 | reviews.html | ![Deleted](https://img.shields.io/badge/Krzysztof-is%20delete%20from%20project-red) `Artur Łaski` | ![Done](https://img.shields.io/badge/done-green) | 
 | teachers.html | `Marcin` | ![Done](https://img.shields.io/badge/done-green) | 
 
+## PageSpeed Insights
+
+![image](https://github.com/user-attachments/assets/07ab89ae-0b65-43e6-ab15-36cd129544a9)
