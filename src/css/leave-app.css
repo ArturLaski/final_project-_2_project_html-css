@@ -14,7 +14,7 @@
     flex-direction: column;
   }
   
-  .header-app {
+  .application-header {
     font-family: var(--primary-font-family);
     font-weight: var(--bold-font-weight);
     font-size: var(--mobile-section-font-size);
@@ -41,21 +41,21 @@
     border-radius: 8px;
   }
   
-  .header-app-desc {
+  .application-heading-description {
     font-size: var(--desktop-tablet-button-font-size);
     color: #12141780;
     line-height: 1.667;
     margin: 0 auto;
   }
   
-  .form-app-container {
+  .application-form-container {
     display: flex;
     background-color: var(--white-color);
     overflow: hidden;
     flex-direction: row;
   }
   
-  .image-app-container {
+  .application-image-container {
     color: var(--white-color);
     background-color: var(--green-color);
     border-radius: var(--desktop-tablet-card-border-radius);
@@ -64,12 +64,12 @@
     display: none;
   }
   
-  .image-app-container .image-app {
+  .application-image-container .application-image {
     border-bottom-left-radius: 50%;
     border-bottom-right-radius: 50%;
   }
   
-  .image-app-container .image-desc {
+  .application-image-container .image-container-description {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -146,11 +146,11 @@
       margin-bottom: 64px;
     }
   
-    .header-app {
+    .application-header {
       margin-bottom: 16px;
     }
   
-    .header-app-desc {
+    .application-heading-description {
       width: 586px;
     }
   
@@ -202,7 +202,7 @@
       margin-top: 0px;
     }
   
-    .descript {
+    .application-description {
       font-size: var(--desktop-tablet-card-paragraph-font-size);
       font-weight: var(--regular-font-weight);
       line-height: 1.5;
@@ -210,14 +210,14 @@
       text-align: center;
     }
   
-    .image-app-container {
+    .application-image-container {
       display: flex;
       flex-direction: column;
       align-items: center;
       gap: 20px;
     }
   
-    .main-line-image {
+    .application-image-main-paragraph {
       margin-bottom: 8px;
       font-size: var(--mobile-main-heading-line-height);
       font-weight: var(--bold-font-weight);
@@ -226,7 +226,7 @@
       text-align: center;
     }
   
-    .header-app-desc {
+    .application-heading-description {
       width: 709px;
     }
   
