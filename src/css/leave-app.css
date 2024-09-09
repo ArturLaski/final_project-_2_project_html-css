@@ -1,35 +1,35 @@
-.form-section-mod {
+.leave-section {
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 20px;
-  background-color: var(--primary-background-color);
+  background-color: var(--white-color);
   margin-bottom: 80px;
 }
 
-.form-header-container-mod {
+.leave-heading-container {
   text-align: center;
   margin-bottom: 64px;
   display: flex;
   flex-direction: column;
 }
 
-.form-header-mod {
-  font-family: var(--primary-font);
-  font-weight: var(--bold-weight);
-  font-size: var(--mobile-header-font-size);
+.leave-header {
+  font-family: var(--primary-font-family);
+  font-weight: var(--bold-font-weight);
+  font-size: var(--mobile-section-font-size);
   line-height: 1.125;
   letter-spacing: -0.02em;
   margin-bottom: 16px;
 }
 
-.form-marker-mod {
+.leave-marker {
   position: relative;
   display: inline-block;
   z-index: 1;
 }
 
-.form-marker-mod::after {
+.leave-marker::after {
   content: '';
   position: absolute;
   left: 0;
@@ -41,35 +41,35 @@
   border-radius: 8px;
 }
 
-.form-header-description-mod {
-  font-size: var(--desktop-button-font-size);
+.leave-heading-description {
+  font-size: var(--desktop-tablet-button-font-size);
   color: #12141780;
   line-height: 1.667;
   margin: 0 auto;
 }
 
-.form-body-container-mod {
+.leave-form-container {
   display: flex;
-  background-color: var(--primary-background-color);
+  background-color: var(--white-color);
   overflow: hidden;
   flex-direction: row;
 }
 
-.form-image-wrapper-mod {
-  color: var(--primary-background-color);
-  background-color: var(--secondary-color);
-  border-radius: var(--card-border-radius);
+.leave-image-container {
+  color: var(--white-color);
+  background-color: var(--green-color);
+  border-radius: var(--desktop-tablet-card-border-radius);
   overflow: hidden;
   max-width: 492px;
   display: none;
 }
 
-.form-image-wrapper-mod .form-image-mod {
+.leave-image-container .leave-image {
   border-bottom-left-radius: 50%;
   border-bottom-right-radius: 50%;
 }
 
-.form-image-wrapper-mod .image-text-mod {
+.leave-image-container .leave-image-description {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -77,82 +77,84 @@
   padding: 0 20px 40px;
 }
 
-.input-form-mod {
+.leave-form {
   display: flex;
   flex-direction: column;
   gap: 18px;
 }
 
-.input-form-mod input,
-.input-form-mod textarea {
+.leave-form input,
+.leave-form textarea {
   padding: 10px;
-  border: 1px solid var(--border-color);
-  border-radius: var(--input-border-radius);
-  font-size: var(--mobile-font);
+  border: 1px solid var(--gray-color);
+  border-radius: var(--button-border-radius);
+  font-size: var(--mobile-font-size);
 }
 
-.input-form-mod textarea {
+.leave-form textarea {
   height: 100px;
   resize: none;
 }
 
-.form-border-mod {
+.leave-border {
   width: 100%;
   height: 56px;
-  border: 1px solid var(--border-color);
+  border: 1px solid var(--gray-color);
   border-radius: 12px;
   outline: none;
 }
 
-.form-border-mod:focus {
-  border-color: var(--focus-color);
+.leave-border:focus {
+  border-color: var(--dark-green-color);
   outline: none;
 }
 
-.instructor-options-mod {
+/* Styles for Mobile devices (Teacher options in column) */
+.leave-teacher-options {
   margin-bottom: 32px;
-  font-size: var(--paragraph-title-size);
-  font-weight: var(--semi-bold-weight);
+  font-size: var(--paragraph-title-font-size);
+  font-weight: var(--semi-bold-font-weight);
   display: flex;
-  flex-direction: column;
+  flex-direction: column; /* Kolumnowy układ na telefonach */
   gap: 8px;
 }
 
-.instructor-options-mod input[type='radio'] {
+.leave-teacher-options input[type='radio'] {
   accent-color: green;
   width: 20px;
   height: 20px;
 }
 
-.choose-instructor-mod {
-  font-size: var(--paragraph-title-size);
-  font-weight: var(--semi-bold-weight);
+.leave-choose-teacher {
+  font-size: var(--paragraph-title-font-size);
+  font-weight: var(--semi-bold-font-weight);
   line-height: 1.5;
   color: var(--black-color);
   margin-bottom: 16px;
 }
 
-.submit-info-mod {
-  font-size: var(--small-font-size);
-  font-weight: var(--regular-weight);
+.leave-send-info {
+  font-size: var(--student-role-font-size);
+  font-weight: var(--regular-font-weight);
   line-height: 1.333;
   color: #12141780;
 }
 
+/* Styles for Tablet devices (row layout for Teacher options) */
 @media only screen and (min-width: 768px) {
-  .form-header-container-mod {
+  .leave-heading-container {
     margin-bottom: 64px;
   }
 
-  .form-header-mod {
+  .leave-header {
     margin-bottom: 16px;
   }
 
-  .form-header-description-mod {
+  .leave-heading-description {
     width: 586px;
   }
 
-  .input-form-mod {
+  .leave-form {
     display: flex;
     flex-direction: column;
     gap: 18px;
@@ -160,53 +162,77 @@
     margin-top: 64px;
   }
 
-  .instructor-options-mod {
-    flex-direction: row;
+  /* Teacher options in row on tablets */
+  .leave-teacher-options {
+    flex-direction: row; /* Zmieniamy na rząd na tabletach */
     gap: 30px;
     margin-bottom: 32px;
   }
 
-  .instructor-options-mod input[type='radio'] {
+  .leave-teacher-options input[type='radio'] {
     width: 24px;
     height: 24px;
   }
 }
 
+.leave-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  background-color: var(--white-color);
+  margin-bottom: 80px;
+}
+
+.leave-choose-teacher {
+  margin-top: 32px;
+}
+
+.leave-send-info {
+  font-size: 14px;
+  font-weight: var(--regular-font-weight);
+  line-height: 1.714;
+  color: #12141780;
+  margin-bottom: 16px;
+}
+
+/* Styles for Desktop devices (row layout for Teacher options) */
 @media only screen and (min-width: 1280px) {
-  .input-form-mod {
+  .leave-form {
     margin-top: 0px;
   }
 
-  .image-description-mod {
-    font-size: var(--desktop-paragraph-font-size);
-    font-weight: var(--regular-weight);
+  .leave-description {
+    font-size: var(--desktop-tablet-card-paragraph-font-size);
+    font-weight: var(--regular-font-weight);
     line-height: 1.5;
     color: #FFFFFFB2;
     text-align: center;
   }
 
-  .form-image-wrapper-mod {
+  .leave-image-container {
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: 20px;
   }
 
-  .main-image-text-mod {
+  .leave-image-main-paragraph {
     margin-bottom: 8px;
-    font-size: var(--main-heading-size);
-    font-weight: var(--bold-weight);
+    font-size: var(--mobile-main-heading-line-height);
+    font-weight: var(--bold-font-weight);
     line-height: 1.333;
     color: #FFFFFFB2;
     text-align: center;
   }
 
-  .form-header-description-mod {
+  .leave-heading-description {
     width: 709px;
   }
 
-  .instructor-options-mod {
-    flex-direction: row;
+  /* Teacher options in row on desktops */
+  .leave-teacher-options {
+    flex-direction: row; /* Rząd na monitorach */
     gap: 20px;
     margin-bottom: 32px;
   }
