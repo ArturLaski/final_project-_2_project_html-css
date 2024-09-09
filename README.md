@@ -37,3 +37,6 @@
 ## PageSpeed Insights
 
 ![image](https://github.com/user-attachments/assets/07ab89ae-0b65-43e6-ab15-36cd129544a9)
+
+![image](https://github.com/user-attachments/assets/6fd6d54b-5d56-4240-8852-355808c9e6a0)
+
