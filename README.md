@@ -16,7 +16,7 @@
 | `ArturLaski` | Artur Łaski | `Leader` | 
 | `Marthen100` | Marcin | `v-c Leader` | 
 | `michalpokracki` | Michał Pokracki | ` ` | 
-| `slavicBoy` | Krzysztof | ![Deleted](https://img.shields.io/badge/Krzysztof-is%20deleted%20from%20project%20due%20to%20not%20responding%20and%20failure%20to%20meet%20deadlines-red) | 
+| `slavicBoy` | Krzysztof | ` ` | 
 
 ## Seperate projects features
 
@@ -28,11 +28,12 @@
 | footer.html | `Marcin` | ![Done](https://img.shields.io/badge/done-green)  | 
 | header.html | `Artur Łaski` | ![Done](https://img.shields.io/badge/done-green)  | 
 | hero.html | `Marcin` | ![Done](https://img.shields.io/badge/done-green) | 
-| leave-app.html | ![Deleted](https://img.shields.io/badge/Krzysztof-is%20delete%20from%20project-red) `Artur Łaski` | ![Done](https://img.shields.io/badge/done-green) | 
+| leave-app.html |  `Artur Łaski` | ![Done](https://img.shields.io/badge/done-green) | 
 | lesson.html | `Michał Pokracki` | ![Done](https://img.shields.io/badge/done-green) | 
 | prop-leave-app.html | `Artur Łaski` | ![Done](https://img.shields.io/badge/done-green) | 
-| reviews.html | ![Deleted](https://img.shields.io/badge/Krzysztof-is%20delete%20from%20project-red) `Artur Łaski` | ![Done](https://img.shields.io/badge/done-green) | 
+| reviews.html | `Artur Łaski` | ![Done](https://img.shields.io/badge/done-green) | 
 | teachers.html | `Marcin` | ![Done](https://img.shields.io/badge/done-green) | 
+| CodeReview | `Krzysztof` | ` ` | 
 
 ## PageSpeed Insights
 
