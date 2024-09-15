@@ -207,6 +207,10 @@ transition: fill var(--transition-general),
       line-height: 1.125;
       }
 
+  .main-button-for-big-screen {
+    display: none;
+  }
+
   .main-nav-link {
       position: relative;
   }
@@ -221,16 +225,17 @@ transition: fill var(--transition-general),
       left: 0;
       transition: var(--transition-general);
   }
-  
+
   .main-nav-link:hover::after {
       width: 37px;
   }
-  
+
   .main-header-social-icons {
       display: flex;
+      justify-content: space-between;
       gap: 28px;
       }
-  
+
   .main-header-icon {
       width: 28px;
       height: 28px;
@@ -241,7 +246,7 @@ transition: fill var(--transition-general),
       transition: fill var(--transition-general),
     outline-color var(--transition-general);
   }
-  
+
   .main-header-icon:hover,
   .main-header-icon:active {
       fill: var(--green-color);
