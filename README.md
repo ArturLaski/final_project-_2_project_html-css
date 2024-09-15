@@ -33,7 +33,7 @@
 | prop-leave-app.html | `Artur Łaski` | ![Done](https://img.shields.io/badge/done-green) | 
 | reviews.html | `Artur Łaski` | ![Done](https://img.shields.io/badge/done-green) | 
 | teachers.html | `Marcin` | ![Done](https://img.shields.io/badge/done-green) | 
-| CodeReview | `Krzysztof` | ` ` | 
+| CodeReview | `Krzysztof` | ![Done](https://img.shields.io/badge/done-green) | 
 
 ## PageSpeed Insights
 
